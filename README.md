@@ -6,6 +6,6 @@ Missing genotypes can affect efficacy of the application of machine learning app
 
 # Data in archived numpy arrays: 
 
-*Before elimination: https://www.dropbox.com/s/ui5kgkjdrztovt2/X.tar.gz
+* Before elimination: https://www.dropbox.com/s/ui5kgkjdrztovt2/X.tar.gz
 
-*After elimination: https://www.dropbox.com/s/yow78p9hhjko1m4/X_.tar.gz
+* After elimination: https://www.dropbox.com/s/yow78p9hhjko1m4/X_.tar.gz
